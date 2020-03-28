@@ -1,0 +1,2 @@
+speechrecognition
+python-vlc
